@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "nombre": "Dreiker",
+  "costeMana": 0,
+  "color": 6,
+  "tipo": 1,
+  "rareza": 3,
+  "textoReglas": "Tap:_Añade_un_mana_blanco_a_tu_reserva_de_maná.",
+  "valorMercado": 0
+}

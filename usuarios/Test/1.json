@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "nombre": "Test",
+  "costeMana": 1,
+  "color": 1,
+  "tipo": 1,
+  "rareza": 0,
+  "textoReglas": "Test",
+  "fuerza": 2,
+  "resistencia": 3,
+  "valorMercado": 1
+}
